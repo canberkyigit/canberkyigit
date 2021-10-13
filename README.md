@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-
+<p align="center">
 
 - 🔭 I’m currently working in Pitcher AG
 
@@ -14,6 +14,7 @@
 
 - 📫 How to reach me **canberkyigit1996@gmail.com**
 
+</p>
 
 ## 🚀 Languages and Tools:
 
