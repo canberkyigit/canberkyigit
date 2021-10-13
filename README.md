@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
 
-
+<h4 align="center">I'm a passionate Full Stack Developer from Turkey.</h4>
 - 🔭 I’m currently working in Pitcher AG
 
 - 🌱 I’m currently learning **Frontend Technologies.**
