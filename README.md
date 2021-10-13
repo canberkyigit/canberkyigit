@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working in Pitcher AG
+- 🔭 I’m currently working at Pitcher AG
 
 - 🌱 I’m currently learning **Frontend Technologies.**
 
