@@ -5,8 +5,8 @@
 ## 🙋‍♂️ About Me
 
 
-<h4 align="center">🔭 I’m currently working in Pitcher AG</h4>
-<h4 align="center">🔭 🌱 I’m currently learning **Frontend Technologies.**</h4>
+
+- 🔭 I’m currently working in Pitcher AG
 
 - 🌱 I’m currently learning **Frontend Technologies.**
 
