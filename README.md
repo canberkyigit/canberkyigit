@@ -4,11 +4,11 @@
 
 ## 🙋‍♂️ About Me
 
+
+
 - 🔭 I’m currently working in Pitcher AG
 
 - 🌱 I’m currently learning **Frontend Technologies.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 Here is my website **www.canberkyigit.com**
 
@@ -70,8 +70,3 @@
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=canberkyigit">
-</a>
-<a href="https://github.com/canberkyigit?tab=followers"><img src="https://img.shields.io/github/followers/canberkyigit?label=Followers&style=social" alt="GitHub Badge"></a>
