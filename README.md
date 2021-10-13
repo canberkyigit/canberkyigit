@@ -53,7 +53,6 @@
   <br/>
     <a href="https://github.com/canberkyigit/github-readme-stats"><img alt="Canberk Yigit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=canberkyigit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/canberkyigit/github-readme-stats"><img alt="Canberk Yigit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkyigit&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
   
 
 <br/>
