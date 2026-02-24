@@ -43,13 +43,14 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true"><img alt="Canberk Yigit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=canberkyigit&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/canberkyigit/github-readme-stats"><img alt="Canberk Yigit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkyigit&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
-
-<br/>
-<br/>
+<p align="center">
+  <a href="https://github.com/canberkyigit">
+    <img src="https://github-readme-stats.vercel.app/api?username=canberkyigit&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=3600" alt="Canberk Yigit's GitHub stats" />
+  </a>
+  <a href="https://github.com/canberkyigit">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkyigit&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=3600" alt="Top languages" />
+  </a>
+</p>
 
 ## Connect with me:
 <p align="left">
