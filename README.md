@@ -41,17 +41,6 @@
 </p>
 
 
-## 📊 My Github Stats
-
-<p align="center">
-  <a href="https://github.com/canberkyigit">
-    <img src="https://github-readme-stats.vercel.app/api?username=canberkyigit&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=3600" alt="Canberk Yigit's GitHub stats" />
-  </a>
-  <a href="https://github.com/canberkyigit">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkyigit&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=3600" alt="Top languages" />
-  </a>
-</p>
-
 ## Connect with me:
 <p align="left">
 
