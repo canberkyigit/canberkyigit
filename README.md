@@ -15,7 +15,7 @@
 
 ## About
 
-I am a Technical Project Manager and Software Engineer with experience delivering customer-facing web and mobile solutions, translating business needs into clear technical specifications, and coordinating cross-functional teams through agile delivery cycles.
+I am a Technical Product Manager and Software Engineer with experience delivering customer-facing web and mobile solutions, translating business needs into clear technical specifications, and coordinating cross-functional teams through agile delivery cycles.
 
 Currently at **Pitcher AG**, I work across requirement analysis, technical documentation, delivery planning, risk management, stakeholder communication, and hands-on software development. I also use Generative AI, autonomous agents, and prompt-engineering workflows to improve requirement analysis, backlog refinement, documentation, and delivery execution.
 
@@ -29,7 +29,7 @@ Currently at **Pitcher AG**, I work across requirement analysis, technical docum
 
 ## Experience
 
-**Technical Project Manager / Software Engineer II**  
+**Technical Product Manager / Software Engineer II**  
 **Pitcher AG** | Ankara, Turkey | Jun 2021 - Present
 
 - Translate evolving customer requirements into clear specifications and maintain a reliable source of truth for delivery teams.
