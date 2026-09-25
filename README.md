@@ -1,5 +1,5 @@
 <h1 align="center">Canberk Yigit</h1>
-<h3 align="center">Senior Technical Product Manager / Senior Technical Product Owner / Software Engineer II</h3>
+<h3 align="center">Senior Technical Product Manager / Senior Technical Product Owner / Solutions Architect / Software Engineer II</h3>
 
 <p align="center">
   <a href="mailto:canberkyigit1996@gmail.com">
